@@ -1,0 +1,28 @@
+{"id": "D01", "question": "How long will you hold my order if I pay by bank transfer?", "answerable": true, "expected_answer": "Up to 5 days.", "answer_keywords": ["5 days"], "source_articles": ["KB-02"]}
+{"id": "D02", "question": "What happens after three failed card payments?", "answerable": true, "expected_answer": "The card is blocked for 24 hours.", "answer_keywords": ["24 hours"], "source_articles": ["KB-03"]}
+{"id": "D03", "question": "Do promo codes reduce shipping costs?", "answerable": true, "expected_answer": "No.", "answer_keywords": ["do not reduce shipping"], "source_articles": ["KB-04"]}
+{"id": "D04", "question": "Can I buy a gift card with another gift card?", "answerable": true, "expected_answer": "No.", "answer_keywords": ["cannot be used to buy another gift card"], "source_articles": ["KB-05"]}
+{"id": "D05", "question": "How much is pickup point delivery?", "answerable": true, "expected_answer": "3.50 EUR.", "answer_keywords": ["3.50"], "source_articles": ["KB-06"]}
+{"id": "D06", "question": "How many digits does a tracking number have?", "answerable": true, "expected_answer": "12 digits.", "answer_keywords": ["12 digits"], "source_articles": ["KB-08"]}
+{"id": "D07", "question": "How long does a carrier investigation take?", "answerable": true, "expected_answer": "Up to 10 working days.", "answer_keywords": ["10 working days"], "source_articles": ["KB-09"]}
+{"id": "D08", "question": "What do I need to bring to collect my parcel?", "answerable": true, "expected_answer": "An ID and the order number.", "answer_keywords": ["id"], "source_articles": ["KB-10"]}
+{"id": "D09", "question": "Are there customs fees when shipping to Germany?", "answerable": true, "expected_answer": "No customs fees inside the EU.", "answer_keywords": ["no customs fees"], "source_articles": ["KB-11"]}
+{"id": "D10", "question": "Can I return opened helmet pads?", "answerable": true, "expected_answer": "No, for hygiene reasons.", "answer_keywords": ["hygiene"], "source_articles": ["KB-12"]}
+{"id": "D11", "question": "When does the summer sale end?", "answerable": true, "expected_answer": "20 July 2026.", "answer_keywords": ["20 july"], "source_articles": ["KB-13"]}
+{"id": "D12", "question": "Should I keep my proof of postage?", "answerable": true, "expected_answer": "Yes, until the refund arrives.", "answer_keywords": ["proof of postage"], "source_articles": ["KB-14"]}
+{"id": "D13", "question": "I paid with a gift card, how am I refunded?", "answerable": true, "expected_answer": "As a new gift card.", "answer_keywords": ["new gift card"], "source_articles": ["KB-15"]}
+{"id": "D14", "question": "Do I have to send back a damaged item that cost 10 EUR?", "answerable": true, "expected_answer": "No, items under 15 EUR can be kept.", "answer_keywords": ["15 eur"], "source_articles": ["KB-16"]}
+{"id": "D15", "question": "What do I need to make a warranty claim?", "answerable": true, "expected_answer": "The invoice, through the support form.", "answer_keywords": ["invoice"], "source_articles": ["KB-17"]}
+{"id": "D16", "question": "How long must my password be?", "answerable": true, "expected_answer": "At least 10 characters.", "answer_keywords": ["10 characters"], "source_articles": ["KB-20"]}
+{"id": "D17", "question": "How long do you keep invoices after I delete my account?", "answerable": true, "expected_answer": "10 years.", "answer_keywords": ["10 years"], "source_articles": ["KB-21"]}
+{"id": "D18", "question": "Can e-bike batteries be shipped to Spain?", "answerable": true, "expected_answer": "No, batteries ship inside France only.", "answer_keywords": ["inside france only"], "source_articles": ["KB-24"]}
+{"id": "D19", "question": "When is a pre-order charged?", "answerable": true, "expected_answer": "When the item ships, within 21 days.", "answer_keywords": ["when the item ships"], "source_articles": ["KB-29"]}
+{"id": "D20", "question": "How quickly do you reply to emails?", "answerable": true, "expected_answer": "Within 24 hours on working days.", "answer_keywords": ["24 hours"], "source_articles": ["KB-27"]}
+{"id": "D21", "question": "Do you have a mobile app?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D22", "question": "Do you offer bike repair services?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D23", "question": "Is there a discount for firefighters?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D24", "question": "How heavy is your U-lock?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D25", "question": "Do you sell second-hand helmets?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D26", "question": "Can I pay in monthly instalments with Klarna?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D27", "question": "What is the name of the company CEO?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}
+{"id": "D28", "question": "Do you deliver on Sunday with standard delivery?", "answerable": false, "expected_answer": null, "answer_keywords": null, "source_articles": []}

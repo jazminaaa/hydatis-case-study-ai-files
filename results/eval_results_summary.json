@@ -1,0 +1,20 @@
+{
+  "n_questions": 40,
+  "n_answerable": 35,
+  "n_unanswerable": 5,
+  "recall@1": 0.843,
+  "hit@1": 0.857,
+  "recall@3": 0.9,
+  "hit@3": 0.914,
+  "recall@5": 0.9,
+  "hit@5": 0.914,
+  "mrr": 0.881,
+  "answer_correct": 21,
+  "answer_correct_rate": 0.6,
+  "correct_and_cited": 21,
+  "wrong_refusals": 6,
+  "wrong_answers": 8,
+  "correct_refusals": 5,
+  "answered_unanswerable": 0,
+  "citation_precision": 0.853
+}
